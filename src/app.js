@@ -115,7 +115,7 @@ let form = document.querySelector("#search-form");
 form.addEventListener("submit", handleSubmit);
 
 let welcomeTeam = alert(
-  "Willkommen auf meiner ersten eigenen Wetter-App, gehostet und live im Web. Ich bin nun am Ende des zweiten Teil meiner SheCodes-Weiterbildung und wollte euch einfach mal zeigen, was ich gelernt habe."
+  "Willkommen auf meiner Wetter-App, gehostet und live im Web. Ich bin nun am Ende des zweiten Teil meiner SheCodes-Weiterbildung und wollte euch einfach mal zeigen, was ich gelernt habe."
 );
 
 search("New York");

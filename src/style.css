@@ -110,7 +110,7 @@ li:first-letter {
   margin-bottom: 2.5px;
   border-radius: 2px;
   box-shadow: inset 0px 0px 0px 1px #97c4fe;
-  background-color: #3d94f6;
+  background-color: #99d6eb;
   border-radius: 2px;
   border: 1px solid #337fed;
   display: inline-block;
@@ -121,7 +121,7 @@ li:first-letter {
   padding: 7px 13px;
   padding-bottom: 6px;
   text-decoration: none;
-  text-shadow: 0px 0px 0px #1570cd;
+  text-shadow: 1px #1570cd;
 }
 .button hover {
   background-color: #1e62d0;
